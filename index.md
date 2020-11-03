@@ -1,3 +1,5 @@
+## To jest moja strona
+tu bede co pisal
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/michmich0605/signek.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
