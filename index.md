@@ -2,6 +2,8 @@
 tu bede co pisal
 ## Welcome to GitHub Pages
 
+https://github.com/michmich0605/signek.github.io/michal.html
+
 You can use the [editor on GitHub](https://github.com/michmich0605/signek.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
